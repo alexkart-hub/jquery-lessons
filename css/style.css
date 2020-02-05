@@ -128,3 +128,7 @@ div {
     opacity: 0;
     /* border: 1px solid #00ff00; */
 }
+
+button.btnSubmit {
+    margin: 20px 0 0 0;
+}
